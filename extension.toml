@@ -1,0 +1,9 @@
+schema_version = 1
+id = "nocturnalzone"
+name = "NocturnalZone"
+version = "1.0.0"
+description = "NocturnalZone dark theme for Zed"
+authors = ["NocturnalZone"]
+repository = "https://github.com/noxyzone/nocturnalzone-zed-theme"
+
+themes = ["themes/nocturnalzone.json"]
