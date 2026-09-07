@@ -155,14 +155,38 @@
         "warning.background": "#d6c95f33",
         "warning.border": "#d6c95f66",
         "players": [
-          { "cursor": "#79c0dc", "selection": "#79c0dc26" },
-          { "cursor": "#27b8c8", "selection": "#27b8c826" },
-          { "cursor": "#3fb085", "selection": "#3fb08526" },
-          { "cursor": "#d6c95f", "selection": "#d6c95f26" },
-          { "cursor": "#c47fd4", "selection": "#c47fd426" },
-          { "cursor": "#ff7a9e", "selection": "#ff7a9e26" },
-          { "cursor": "#919198", "selection": "#91919826" },
-          { "cursor": "#a9a9b3", "selection": "#a9a9b326" }
+          {
+            "cursor": "#79c0dc",
+            "selection": "#79c0dc26"
+          },
+          {
+            "cursor": "#27b8c8",
+            "selection": "#27b8c826"
+          },
+          {
+            "cursor": "#3fb085",
+            "selection": "#3fb08526"
+          },
+          {
+            "cursor": "#d6c95f",
+            "selection": "#d6c95f26"
+          },
+          {
+            "cursor": "#c47fd4",
+            "selection": "#c47fd426"
+          },
+          {
+            "cursor": "#ff7a9e",
+            "selection": "#ff7a9e26"
+          },
+          {
+            "cursor": "#919198",
+            "selection": "#91919826"
+          },
+          {
+            "cursor": "#a9a9b3",
+            "selection": "#a9a9b326"
+          }
         ],
         "syntax": {
           "keyword": {
