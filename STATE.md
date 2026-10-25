@@ -1,3 +1,0 @@
-# STATE.md
-
-## Active Work
