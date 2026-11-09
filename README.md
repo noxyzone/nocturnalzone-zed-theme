@@ -14,6 +14,21 @@ Open the command palette and run `zed: extensions`, then search for **NocturnalZ
 
 Clone this repository and run `zed: install dev extension` from the command palette, then select the cloned directory.
 
+## Screenshot
+
+`assets/screenshot.png` (1200x800) is captured from a Zed window showing
+[`scripts/lib/NocturnalZoneSample.ts`](scripts/lib/NocturnalZoneSample.ts). Select the
+NocturnalZone theme in Zed first (**Zed > Settings > Themes**), then run:
+
+```bash
+scripts/screenshot.sh
+```
+
+The script opens a temporary copy of the sample file, resizes the Zed window to 1200x800, and
+captures it. Pass `--output-dir DIR` to capture outside `assets/`. macOS must allow the terminal
+to control the computer (**System Settings > Privacy & Security > Accessibility**) so the window
+geometry can be read.
+
 ## Palette
 
 ### Base
